@@ -1,44 +1,55 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
-    "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "name": "Kai Katschthaler",
+    "occupation": "Tech Content Specialist & DevRel",
+    "location": "Germany/Remote",
+    "avatar": "kai-katschthaler.png",
+    "pronouns": "they/them",
+    "email": "kai.andie@katschthaler.com",
+    "website": "https://katschthaler.com",
     "skills": [
-        "HTML",
-        "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
-        "Git"
+        "Content Strategy",
+        "Content Creation",
+        "Copywriting, Editing & Coaching",
+        "Branding & Tone of Voice",
+        "Diversity, Equity & Inclusion"
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "German",
             "level": "native"
         },
         {
-            "name": "German",
-            "level": "fluent"
+            "name": "English",
+            "level": "native equivalent"
         },
         {
-            "name": "French",
-            "level": "basic"
+            "name": "Italian",
+            "level": "vastly forgotten but can be reactivated"
+        },
+        {
+            "name": "Hungarian",
+            "level": "second mother tongue, very rusty"
+        },
+        {
+            "name": "I Also Speak Dev",
+            "level": "fluent"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@thegrumpygirl",
+            "url": "https://github.com/thegrumpygirl"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "kaiandiekatschthaler",
+            "url": "https://www.linkedin.com/in/kaiandiekatschthaler/"
+        },
+        {
+            "name": "Twitter",
+            "user": "@thegrumpygirl",
+            "url": "https://www.twitter.com/thegrumpygirl"
         }
     ]
 }
