@@ -1,7 +1,7 @@
 ---
-title: Bachelor, Graphic Design
-organization: Lorem Arts Academy
+title: Diploma in Digital Filmmaking
+organization: Filmschule Wien
 location: Vienna, AT
-start: 2013-04-16
-end: 2013-10-01
+start: 2011
+end: 2012
 ---
