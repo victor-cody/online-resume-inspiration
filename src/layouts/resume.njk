@@ -15,7 +15,7 @@ layout: base
         {% endif %}
 
         <section class="section" id="section-experience">
-            <h2 class="section__title">{{ strings.titles.experience }}</h2>
+            <h2 class="section__title">{{ s.experience }}</h2>
             {% set entries = collections.work %}
             {% set microformat = "p-experience" %}
             {% include "entrylist-work.njk" %}
@@ -26,6 +26,13 @@ layout: base
             {% set entries = collections.education %}
             {% set microformat = "p-education" %}
             {% include "entrylist-edu.njk" %}
+        </section>
+
+          <section class="section" id="section-other">
+            <h2 class="section__title">{{ s.other }}</h2>
+            {% set entries = collections.other %}
+            {% set microformat = "p-other" %}
+            {% include "entrylist-other.njk" %}
         </section>
 
         {% if collections.custom.length %}

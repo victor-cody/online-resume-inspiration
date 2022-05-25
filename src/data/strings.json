@@ -2,6 +2,7 @@
     "titles": {
         "experience": "Work Experience",
         "education": "Education",
+        "other": "Other things I have done",
         "skills": "Skills",
         "languages": "Languages",
         "open_source": "Open Source"
