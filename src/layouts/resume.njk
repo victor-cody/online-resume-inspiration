@@ -28,6 +28,17 @@ layout: base
             {% include "entrylist-edu.njk" %}
         </section>
 
+        {% if collections.custom.length %}
+        {% set custom = collections.custom|first %}
+        <section class="section" id="section-custom">
+            {% if custom.data.title %}
+                <h2 class="section__title">{{ custom.data.title }}</h2>
+            {% endif %}
+            <div class="markdown">
+                {{ custom.templateContent | safe }}
+            </div>
+        </section>
+
     {% if author.skills or author.languages %}
         <div class="grid grid--2col">
             {% if author.skills %}
@@ -61,15 +72,6 @@ layout: base
         </section>
     {% endif %}
 
-    {% if collections.custom.length %}
-        {% set custom = collections.custom|first %}
-        <section class="section" id="section-custom">
-            {% if custom.data.title %}
-                <h2 class="section__title">{{ custom.data.title }}</h2>
-            {% endif %}
-            <div class="markdown">
-                {{ custom.templateContent | safe }}
-            </div>
-        </section>
+    
     {% endif %}
 </main>
