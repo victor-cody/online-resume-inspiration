@@ -15,7 +15,7 @@ layout: base
         {% endif %}
 
         <section class="section" id="section-experience">
-            <h2 class="section__title">{{ s.experience }}</h2>
+            <h2 class="section__title">{{ strings.titles.experience }}</h2>
             {% set entries = collections.work %}
             {% set microformat = "p-experience" %}
             {% include "entrylist-work.njk" %}
@@ -79,6 +79,6 @@ layout: base
         </section>
     {% endif %}
 
-    
+
     {% endif %}
 </main>
