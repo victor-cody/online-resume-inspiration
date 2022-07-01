@@ -1,11 +1,8 @@
 ---
 tags: custom
-title: Other things I’ve done
+title: Fun facts about me
 ---
-
-This is custom content. You can add [anything you want](https://www.youtube.com/watch?v=dQw4w9WgXcQ) in here.
-
-* Reading
-* Punk Rock
-* Climbing
-* Archery
+* Gigged as a stage manager on live TV broadcasts while in school and uni
+* Started working as a journalist when I was 16
+* Almost became a professional basoonist
+* Swimming wild all year round (yes, even in winter!)
