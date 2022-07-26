@@ -10,7 +10,7 @@ I’m a startup consultant with 6+ years of experience working with companies on
 
 <div style="text-align: center">
 <iframe
-class=video
+class="video"
 src="https://www.youtube.com/embed/v1PHdZ0Fv8Y" title="YouTube video player"
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
