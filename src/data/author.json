@@ -1,17 +1,18 @@
 {
-    "name": "Kai Andie Katschthaler",
+    "name": "Kai Katschthaler",
     "occupation": "DevRel with Tech Content Specialisation",
     "location": "Germany/Remote",
     "avatar": "kai-katschthaler.png",
     "pronouns": "they/them",
-    "email": "kai.andie@katschthaler.com",
+    "email": "kai@katschthaler.com",
     "website": "https://katschthaler.com",
     "skills": [
         "Content Strategy",
         "Content Creation",
         "Copywriting, Editing & Coaching",
         "Branding & Tone of Voice",
-        "Diversity, Equity & Inclusion"
+        "Diversity, Equity & Inclusion",
+        "HTML & CSS"
     ],
     "languages": [
         {
@@ -38,18 +39,18 @@
     "social": [
         {
             "name": "Github",
-            "user": "@thegrumpygirl",
-            "url": "https://github.com/thegrumpygirl"
+            "user": "@thegrumpyenby",
+            "url": "https://github.com/thegrumpyenby"
         },
         {
             "name": "LinkedIn",
-            "user": "kaiandiekatschthaler",
-            "url": "https://www.linkedin.com/in/kaiandiekatschthaler/"
+            "user": "kaikatschthaler",
+            "url": "https://www.linkedin.com/in/kaikatschthaler/"
         },
         {
             "name": "Twitter",
-            "user": "@thegrumpygirl",
-            "url": "https://www.twitter.com/thegrumpygirl"
+            "user": "@thegrumpyenby",
+            "url": "https://www.twitter.com/thegrumpyenby"
         }
     ]
 }
