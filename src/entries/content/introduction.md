@@ -7,12 +7,3 @@ I’m a startup consultant with 6+ years of experience working with companies on
 <br>I create fantastic content, have a strategic mindset, and a knack for asking the right questions. I work exceptionally well with developers and love learning new things. I also enjoy public speaking and am a natural networker with a lot of empathy and a keen interest in Diversity, Equity and Inclusion (DEI).
 
 <br>Watch my most recent talk [“How to Talk About Mental Health Without Losing Your Mind” at Pyjamas Conf](https://youtu.be/1WER8ydaLW8?t=7522).<br><br>
-
-[//]: #
-<div style="text-align: center">
-<iframe
-class="video"
-src="https://www.youtube.com/embed/v1PHdZ0Fv8Y" title="YouTube video player"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
