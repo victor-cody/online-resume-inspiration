@@ -1,9 +1,9 @@
 ---
-title: DevRel Consultant & Content Specialist
-organization: Self-employed
-organizationUrl: https://www.katschthaler.com
+title: Content Marketing Manager & Developer Educator
+organization: Scaleway
+organizationUrl: https://www.scaleway.com/en/
 location: Remote
 start: 2014-07-01
 ---
 
-I help startups and entrepreneurs shape their brand and find their voice and values. Services include tone of voice workshops, brainstorming content strategy, re/structuring websites, copy creation, and inclusive language audits. I can also guide other writers with copy coaching and constructive editing.  
+Besides writing, editing, and reviewing content, I am supporting engineers to write and tell their stories through the Scaler Writer program — helping with everything from finding the narrative hook to creating structure and improving writing. I work closely with engineers throughout the Scaleway ecosystem as well as with my colleagues in DevRel.
