@@ -53,6 +53,11 @@
             "name": "Twitter",
             "user": "@thegrumpyenby",
             "url": "https://www.twitter.com/thegrumpyenby"
+        },
+        {
+            "name": "Twitch",
+            "user": "@thegrumpyenby",
+            "url": "https://www.twitch.tv/thegrumpyenby"
         }
     ]
 }
