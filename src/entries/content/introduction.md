@@ -12,8 +12,8 @@ I believe the content that matters most to your audience usually comes from your
 <br>Explaining something that they’ve learned or built also helps developers gain more clarity on a topic, and (much to my delight) it can be a real confidence booster for them as well.
 
 <br>Here are just a few examples of articles that I’ve recently been involved in, helping engineers put what matters to them on the page. As you can see, I’m capable of covering a wide variety of technical topics:
-<br>
-• [A primer on effective monitoring practices](https://www.scaleway.com/en/blog/effective-monitoring-practices/)
+
+<br>• [A primer on effective monitoring practices](https://www.scaleway.com/en/blog/effective-monitoring-practices/)
 • [Isolate resources across Availability Zones with Virtual Private Cloud](https://www.scaleway.com/en/blog/virtual-private-cloud-public-beta/)
 • [Creating Cockpit: From ecosystem tool to observability product](https://www.scaleway.com/en/blog/cockpit-observability-tool-product/)
 • [Graduating from Docker to Kubernetes](https://www.scaleway.com/en/blog/from-docker-to-kubernetes/)
@@ -22,9 +22,9 @@ I believe the content that matters most to your audience usually comes from your
 <br>
 ### Content whiz with a journo background
 Aside from providing engineers with editorial support, I create fantastic content (blog posts, live streams, podcasts, etc.). I have a strategic mindset and a knack for understanding and communicating technical topics. I’m also a skilled interviewer thanks to my background in journalism, my empathy, and my endless curiosity and eagerness to learn new things.
-<br>
-I currently work more with engineers than I write my own posts. But when I do, I bring my own voice — the comment I get the most regarding my content is “authentic”. But don’t take anyone’s word for it; have a read yourself:
-• [Why we used open-source software to build Cockpit, our observability product](https://www.scaleway.com/en/blog/cockpit-scaleway-observability-product/)
+
+<br>I currently work more with engineers than I write my own posts. But when I do, I bring my own voice — the comment I get the most regarding my content is “authentic”. But don’t take anyone’s word for it; have a read yourself:
+<br>• [Why we used open-source software to build Cockpit, our observability product](https://www.scaleway.com/en/blog/cockpit-scaleway-observability-product/)
 • [Get started with Cockpit: use cases for Scaleway Observability](https://www.scaleway.com/en/blog/cockpit-observability-use-cases/)
 <br>
 ### An engaging public speaker
