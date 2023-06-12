@@ -13,8 +13,8 @@ I believe that the best content — the content that matters most to your audien
 <br>Explaining something that they’ve learned or built also helps developers gain more clarity on a topic, and (much to my delight) it can be a real confidence booster for them as well.
 
 <br>Here are just a few examples of articles that I’ve recently been involved in, helping engineers put what matters to them on the page. As you can see, **I’m capable of covering a wide variety of technical topics**:
-*[A primer on effective monitoring practices](https://www.scaleway.com/en/blog/effective-monitoring-practices/)
-*[Isolate resources across Availability Zones with Virtual Private Cloud](https://www.scaleway.com/en/blog/virtual-private-cloud-public-beta/)
+* [A primer on effective monitoring practices](https://www.scaleway.com/en/blog/effective-monitoring-practices/)
+* [Isolate resources across Availability Zones with Virtual Private Cloud](https://www.scaleway.com/en/blog/virtual-private-cloud-public-beta/)
 * [Creating Cockpit: From ecosystem tool to observability product](https://www.scaleway.com/en/blog/cockpit-observability-tool-product/)
 * [Graduating from Docker to Kubernetes](https://www.scaleway.com/en/blog/from-docker-to-kubernetes/)
 * [Tripling the lifespan of servers: why we retrofitted 14,000 servers](https://www.scaleway.com/en/blog/the-transformers-project/)
