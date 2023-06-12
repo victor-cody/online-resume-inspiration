@@ -8,7 +8,7 @@ Hi, I’m Kai!
 <br>**I would love to build and/or grow your company’s technical content department**; in part through a programme dedicated to helping engineers create relevant content. Sure, I can write great content for developers myself and I will do exactly that but, what’s more important, **I can help your engineers create developer-focused content**.
 <br>
 ### Helping developers create content for developers
-<br>I believe that the best content — the content that matters most to your audience — usually comes from your developers. I’ve noticed that **plenty of engineers would *love* to communicate their ideas and experiences** through blog posts. They just need a little bit of help with the writing, be it through hands-on editing, interviews, or just some guidance getting over that blank-page syndrome. 
+I believe that the best content — the content that matters most to your audience — usually comes from your developers. I’ve noticed that **plenty of engineers would *love* to communicate their ideas and experiences** through blog posts. They just need a little bit of help with the writing, be it through hands-on editing, interviews, or just some guidance getting over that blank-page syndrome. 
 
 <br>Explaining something that they’ve learned or built also helps developers gain more clarity on a topic, and (much to my delight) it can be a real confidence booster for them as well.
 
