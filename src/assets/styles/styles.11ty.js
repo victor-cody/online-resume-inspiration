@@ -69,7 +69,7 @@ module.exports = class {
             padding: 0;
             min-height: 100vh;
             font-family: monospace;
-            font-size: 1rem;
+            font-size: 0.5rem;
             line-height:1.5;
         } 
         body::before { 
