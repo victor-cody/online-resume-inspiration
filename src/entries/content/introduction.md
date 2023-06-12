@@ -3,12 +3,14 @@ tags: introduction
 title: About Me
 ---
 
-Hi! I’m Kai, and **I would love to build and/or grow your company’s technical content department** in part through a programme dedicated to helping engineers create relevant content. Sure, I can write great content for developers myself but, what’s more important, I can also help your engineers create developer-focused content.
+Hi! I’m Kai, and **I would love to build and/or grow your company’s technical content department** in part through a programme dedicated to helping engineers create relevant content. Sure, I can write great content for developers myself but, what’s more important, **I can help your engineers create developer-focused content**.
 
-<br>I believe that the best content — the content that matters most to your audience — usually comes from your developers. I’ve noticed that plenty of them would *love* to communicate their ideas and experiences through blog posts. They just need a little bit of help with the writing, be it through hands-on editing, interviews, or just some guidance getting over that blank-page syndrome. Explaining something that they’ve learned or built also helps developers gain more clarity on a topic, and (much to my delight) it can be a real confidence booster for them as well.
+<br>I believe that the best content — the content that matters most to your audience — usually comes from your developers. I’ve noticed that **plenty of engineers would *love* to communicate their ideas and experiences** through blog posts. They just need a little bit of help with the writing, be it through hands-on editing, interviews, or just some guidance getting over that blank-page syndrome. 
 
-Here are just a few articles that I was heavily involved in, helping engineers put what matters to them on the page. As you can see, I’m capable of covering a wide variety of technical topics:
-* [A primer on effective monitoring practices](https://www.scaleway.com/en/blog/effective-monitoring-practices/)
+<br>Explaining something that they’ve learned or built also helps developers gain more clarity on a topic, and (much to my delight) it can be a real confidence booster for them as well.
+
+<br>Here are just a few articles that I was heavily involved in, helping engineers put what matters to them on the page. As you can see, I’m capable of covering a wide variety of technical topics:
+[*] [A primer on effective monitoring practices](https://www.scaleway.com/en/blog/effective-monitoring-practices/)
 * [Isolate resources across Availability Zones with Virtual Private Cloud](https://www.scaleway.com/en/blog/virtual-private-cloud-public-beta/)
 * [Creating Cockpit: From ecosystem tool to observability product](https://www.scaleway.com/en/blog/cockpit-observability-tool-product/)
 * [Graduating from Docker to Kubernetes](https://www.scaleway.com/en/blog/from-docker-to-kubernetes/)
