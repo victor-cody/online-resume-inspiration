@@ -3,15 +3,13 @@ tags: introduction
 title: About Me
 ---
 
-Hi, I’m Kai! I would love to build and/or grow your company’s technical content department; in part through a programme dedicated to helping engineers create relevant content.
-<br>Sure, I can write great content for developers myself and I will do exactly that but, what’s more important, I can help your engineers create developer-focused content.
-<br>
-### Helping developers create content for developers
-I believe the content that matters most to your audience usually comes from your developers. I’ve noticed that many engineers would *love* to communicate their ideas and experiences through blog posts. They just need a bit of help with the writing, be it through hands-on editing, interviews, or just some guidance getting over that blank-page syndrome. 
+Hi, I’m Kai! I would love to build and/or grow your company’s technical content  and help your engineers create relevant content.
+### Helping developers create content *for* developers
+The content that matters most to your audience comes from your developers. Many engineers would *love* to communicate their ideas and experiences through blog posts. They just need a bit of help with the writing, be it through hands-on editing, interviews, or just some guidance getting over that blank-page syndrome. 
 
-<br>Explaining something that they’ve learned or built also helps developers gain more clarity on a topic, and (much to my delight) it can be a real confidence booster for them as well.
+<br>Explaining something that they’ve learned or built also helps developers gain more clarity on a topic, and it can be a real confidence booster for them as well.
 
-<br>Here are just a few examples of articles that I’ve recently been involved in, helping engineers put what matters to them on the page. As you can see, I’m capable of covering a wide variety of technical topics:
+<br>Here are just a few examples of articles that I’ve recently been involved with, helping engineers put what matters to them on the page, covering a wide variety of technical topics:
 
 <br>• [A primer on effective monitoring practices](https://www.scaleway.com/en/blog/effective-monitoring-practices/)
 • [Isolate resources across Availability Zones with Virtual Private Cloud](https://www.scaleway.com/en/blog/virtual-private-cloud-public-beta/)
@@ -23,11 +21,11 @@ I believe the content that matters most to your audience usually comes from your
 ### Content whiz with a journo background
 Aside from providing engineers with editorial support, I create fantastic content (blog posts, live streams, podcasts, etc.). I have a strategic mindset and a knack for understanding and communicating technical topics. I’m also a skilled interviewer thanks to my background in journalism, my empathy, and my endless curiosity and eagerness to learn new things.
 
-<br>I currently work more with engineers than I write my own posts. But when I do, I bring my own voice — the comment I get the most regarding my content is “authentic”. But don’t take anyone’s word for it; have a read yourself:
+<br>I currently work more with engineers than I write my own posts. But when I do, I bring my own voice to the content:
 <br>• [Why we used open-source software to build Cockpit, our observability product](https://www.scaleway.com/en/blog/cockpit-scaleway-observability-product/)
 • [Get started with Cockpit: use cases for Scaleway Observability](https://www.scaleway.com/en/blog/cockpit-observability-use-cases/)
 <br>
-### An engaging public speaker
-Additionally, I’m one of those oddballs who enjoy public speaking. I love giving talks (catch me at [DevRelCon London](https://london-2023.devrelcon.dev/speaker/kai-katschthaler/) in September 2023!) and doing live streams or podcasts, and moderating events. I’m involved and volunteer in various online tech communities and have a keen interest in Diversity, Equity & Inclusion (DEI), mental health, and neurodiversity.
+### Engaging public speaker
+I’m one of those oddballs who genuinely enjoy public speaking. I love giving talks (catch me at [DevRelCon London](https://london-2023.devrelcon.dev/speaker/kai-katschthaler/) in September 2023!), doing live streams or podcasts, and moderating events. I’m involved with and volunteer in various online tech communities and have a keen interest in Diversity, Equity & Inclusion (DEI), mental health, and neurodiversity.
 
 <br>Watch my most recent talk [“How to Talk About Mental Health Without Losing Your Mind” at You Got This Broadcasting Service Conference](https://yougotthis.io/library/talk-about-mental-health-combat-stigma).
